@@ -1,23 +1,25 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.instagram.com/felipe.aufe/">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/instagram.png" />
+  <img alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/felipe-augusto-feitosa/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/linkedin.png" />
+  <img alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/linkedin.png" />
 </a>
 <a href="https://twitter.com/FelipeA_F">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/twitter.png" />
+  <img alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/twitter.png" />
 </a>
 <a href="https://open.spotify.com/playlist/2QulXh7euF5euN4mFbBR4W?si=8003ac5396d946c4">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/spotify.png" />
+  <img alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/spotify.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=felipeaufe&color=blue&style=flat)
 
 <br />
 
-hi, i'm [Felipe Augusto](https://www.linkedin.com/in/felipe-augusto-feitosa/). Bachelor's Degree in Information System. Passionate about technology, Always attentive to news about the world of front-end. Loves agile methodology, organization and UI/UX.
+Hi, i'm [Felipe Augusto](https://www.linkedin.com/in/felipe-augusto-feitosa/).
+
+Bachelor's Degree in Information System. Passionate about technology, Always attentive to news about the world of front-end. Loves agile methodology, organization and UI/UX.
 
 I love getting involved in the Front-end universe, mainly with Javascript and Typescript. I'm self-taught and I always try to be as up to date as possible to keep myself expert.
   
