@@ -21,7 +21,7 @@ hi, i'm [Felipe Augusto](https://www.linkedin.com/in/felipe-augusto-feitosa/). B
 
 I love getting involved in the Front-end universe, mainly with Javascript and Typescript. I'm self-taught and I always try to be as up to date as possible to keep myself expert.
   
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/earlyacess.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/felipeaufe/felipeaufe/main/assets/earlyacess.gif?raw=true" width="350" height="220" />
   
 - 💻 [Let's have a chat about work?](mailto:felipe.aufe@gmail.com).
 - 💼 [Get to know a little about my professional trajectory](https://www.linkedin.com/in/felipe-augusto-feitosa/).
