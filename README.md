@@ -45,6 +45,15 @@ I love getting involved in the Front-end universe, mainly with Javascript and Ty
 
 <br />
 
+> If you like what i do, <br />
+> Maybe consider buying me a coffee 😊☕.
+> 
+> <a href="https://www.buymeacoffee.com/felipeaufe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
+<br />
+
+
 📈 **My Github stats:**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeaufe&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=github_dark" />
